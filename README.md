@@ -12,4 +12,4 @@
   </ol>
 <h2> Music Taste </h2>
   <p> Melia's music taste spans far and wide. Some of her favorite artists include, Dream, BTS, Jack Harlow, and Dua Lipa. Here is her playlist of all of her favorite songs! </p>
-  <a href="https://open.spotify.com/playlist/2wmaqRG3icifJINMxkVLAO?si=e876260d73d641d5"></a>
+  <a href="https://open.spotify.com/playlist/2wmaqRG3icifJINMxkVLAO?si=e876260d73d641d5"> Saving the Universe: by Melia Ogawa</a>
