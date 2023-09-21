@@ -15,5 +15,6 @@
 <h2> A word from her friends </h2>
   <h3> Sai Sankar </h3>
     <p> Melia has been my bestie for 4 years, and I think she is a beautiful, kind, warm-hearted soul. She is also a huge loser.</p>
+    <img src="![IMG_7649](https://github.com/emersenh/melogawasworld/assets/145365698/9550a19f-182b-40e0-8e32-7fa451acbbf4)" alt="picture of melia and sreshta" width="150" height="200">
   <h3> Calzie </h3>
     <p> "Say that she has really ugly shoes and pairs them with jorts. Also her lipstick collection is crazy." </p>
