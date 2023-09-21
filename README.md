@@ -1,4 +1,5 @@
 <p> by emersen </p>
+<body style="background-color:#c4c95f;">
 <h2> Basic Information </h2>
   <p> Melia Mai Ogawa was born in Honolulu, Hawaii, on May 25th, 2007. She has many talents and hobbies, such as badminton and being flirty! She has many hyperfixations as well, like doings her nails, puzzles, MCYT, and watching kdramas. Her favorite kdrama is <em>Twenty-Five Twenty-One</em>! </p>
 <h2> Hidden Surprises </h2>
@@ -18,3 +19,5 @@
     <img src="![IMG_7649](https://github.com/emersenh/melogawasworld/assets/145365698/9550a19f-182b-40e0-8e32-7fa451acbbf4)" alt="picture of melia and sreshta" width="150" height="200">
   <h3> Calzie </h3>
     <p> "Say that she has really ugly shoes and pairs them with jorts. Also her lipstick collection is crazy." </p>
+  
+</body>
