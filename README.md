@@ -1,5 +1,5 @@
 <p> by emersen </p>
-<body style="background-color:#c4c95f;">
+<body style="background-color:#bcbde8;">
 <h2> Basic Information </h2>
   <p> Melia Mai Ogawa was born in Honolulu, Hawaii, on May 25th, 2007. She has many talents and hobbies, such as badminton and being flirty! She has many hyperfixations as well, like doings her nails, puzzles, MCYT, and watching kdramas. Her favorite kdrama is <em>Twenty-Five Twenty-One</em>! </p>
 <h2> Hidden Surprises </h2>
@@ -14,9 +14,10 @@
   <p> Melia's music taste spans far and wide. Some of her favorite artists include, Dream, BTS, Jack Harlow, and Dua Lipa. Here is her playlist of all of her favorite songs! </p>
   <a href="https://open.spotify.com/playlist/2wmaqRG3icifJINMxkVLAO?si=e876260d73d641d5"> Saving the Universe: by Melia Ogawa</a>
 <h2> A word from her friends </h2>
-  <h3> Sai Sankar </h3>
+  <h3> Sai Sreshta Sankar </h3>
     <p> Melia has been my bestie for 4 years, and I think she is a beautiful, kind, warm-hearted soul. She is also a huge loser.</p>
-    [IMG_7649](https://github.com/emersenh/melogawasworld/assets/145365698/54b31c5c-8913-4ae7-bbb4-22588a2536b7) alt="picture of melia and sreshta" width="150" height="200">
+    <img src="![IMG_7649](https://github.com/emersenh/melogawasworld/assets/145365698/e5c0fa65-e580-4a3c-9f5f-95d174e4fba0)
+" alt="picture of melia and sreshta" width="150" height="200">
   <h3> Calzie </h3>
     <p> "Say that she has really ugly shoes and pairs them with jorts. Also her lipstick collection is crazy." </p>
   
