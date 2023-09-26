@@ -23,7 +23,7 @@
   <h3> Elinna Liu</h3>
     <p> "I love her furry costumes! Did you know she makes them herself?!" </p>
   <h3> Sibrian </h3>
-    <p> "melia is a really kind person and she also has a silly personality"</p>
+    <p> "melia is a really kind person and she also has a silly personality &#128522;"</p>
   
 </body>
 
