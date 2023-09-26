@@ -16,7 +16,7 @@
 <h2> A word from her friends </h2>
   <h3> Sai Sreshta Sankar </h3>
     <p> Melia has been my bestie for 4 years, and I think she is a beautiful, kind, warm-hearted soul.</p>
-    <img src="IMG_7649" alt="picture of melia and sreshta" width="150" height="200">
+    <img src="IMG_7649.jpg" alt="picture of melia and sreshta" width="150" height="200">
   <h3> Calzie </h3>
     <p> "Say that she has really ugly shoes and pairs them with jorts. Also her lipstick collection is crazy." </p>
 
