@@ -20,10 +20,10 @@
     <img src="IMG_7649.jpg" alt="picture of melia and sreshta" width="300" height="200">
   <h3> Calzie </h3>
     <p> "Say that she has really ugly shoes and pairs them with jorts. Also her lipstick collection is crazy." </p>
-
-
-
-
+  <h3> Elinna Liu</h3>
+    <p> "I love her furry costumes! Did you know she makes them herself?!" </p>
+  <h3> Sibrian </h3>
+    <p> "melia is a really kind person and she also has a silly personality"</p>
   
 </body>
 
