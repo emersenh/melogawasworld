@@ -15,9 +15,10 @@
   <a href="https://open.spotify.com/playlist/2wmaqRG3icifJINMxkVLAO?si=e876260d73d641d5"> Saving the Universe: by Melia Ogawa</a>
 <h2> A word from her friends </h2>
   <h3> Sai Sreshta Sankar </h3>
-    <p> Melia has been my bestie for 4 years, and I think she is a beautiful, kind, warm-hearted soul. She is also a huge loser.</p>
+    <p> Melia has been my bestie for 4 years, and I think she is a beautiful, kind, warm-hearted soul.</p>
     <img src="IMG_7649" alt="picture of melia and sreshta" width="150" height="200">
   <h3> Calzie </h3>
     <p> "Say that she has really ugly shoes and pairs them with jorts. Also her lipstick collection is crazy." </p>
-  
+  ![IMG_7649](https://github.com/emersenh/melogawasworld/assets/145365698/60931858-cda5-4e09-9ce5-f7c06ecbb385)
 </body>
+
