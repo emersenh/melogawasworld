@@ -19,6 +19,10 @@
     <img src="IMG_7649" alt="picture of melia and sreshta" width="150" height="200">
   <h3> Calzie </h3>
     <p> "Say that she has really ugly shoes and pairs them with jorts. Also her lipstick collection is crazy." </p>
-  ![IMG_7649](https://github.com/emersenh/melogawasworld/assets/145365698/60931858-cda5-4e09-9ce5-f7c06ecbb385)
+
+
+
+
+  
 </body>
 
